@@ -1,9 +1,10 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:fridgechef/models/recipe.dart';
 import 'package:fridgechef/screens/home_screen.dart';
 import 'package:fridgechef/screens/onboarding_screen.dart';
 import 'package:fridgechef/screens/recipes_screen.dart';
+import 'package:fridgechef/services/matcher.dart';
 import 'package:fridgechef/state/app_state.dart';
 
 AppState _stateWithRecipes() {
@@ -106,7 +107,12 @@ void main() {
     );
     await tester.pumpAndSettle();
 
-    await tester.tap(find.text('Veg'));
+    await tester.tap(
+      find.descendant(
+        of: find.byType(SegmentedButton<VegFilter>),
+        matching: find.text('Veg'),
+      ),
+    );
     await tester.pumpAndSettle();
 
     expect(find.text('Dal Tadka'), findsOneWidget);

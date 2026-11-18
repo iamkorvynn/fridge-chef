@@ -126,7 +126,12 @@ class GeminiService {
     if (fenceMatch != null) {
       cleaned = fenceMatch.group(1)!.trim();
     }
-    final decoded = jsonDecode(cleaned);
+    final Object? decoded;
+    try {
+      decoded = jsonDecode(cleaned);
+    } on FormatException {
+      throw GeminiException('Gemini returned an unexpected format.');
+    }
     final List<dynamic> rawList;
     if (decoded is List) {
       rawList = decoded;

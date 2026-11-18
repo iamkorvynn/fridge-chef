@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 import '../services/settings_service.dart';
 
@@ -14,12 +14,12 @@ class OnboardingScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: SafeArea(
-        child: Padding(
+        child: SingleChildScrollView(
           padding: const EdgeInsets.all(24),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
-              const Spacer(),
+              const SizedBox(height: 24),
               const Icon(Icons.kitchen, size: 72, color: Colors.green),
               const SizedBox(height: 16),
               Text(
@@ -61,7 +61,7 @@ class OnboardingScreen extends StatelessWidget {
                     'have, with the missing ones listed. 34 real recipes, '
                     'bundled in the app.',
               ),
-              const Spacer(),
+              const SizedBox(height: 32),
               FilledButton(
                 onPressed: () async {
                   await SettingsService().setOnboardingDone();
@@ -72,6 +72,7 @@ class OnboardingScreen extends StatelessWidget {
                   child: Text('Start cooking', style: TextStyle(fontSize: 16)),
                 ),
               ),
+              const SizedBox(height: 16),
             ],
           ),
         ),
