@@ -36,6 +36,12 @@ android {
             signingConfig = signingConfigs.getByName("debug")
         }
     }
+
+    lint {
+        // AGP lint crashes on image_picker_android's ExifDataCopier.java
+        // (NoSuchMethodError in JavaDocParser) — lint is not needed for release.
+        checkReleaseBuilds = false
+    }
 }
 
 kotlin {
