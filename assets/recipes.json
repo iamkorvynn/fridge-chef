@@ -1,0 +1,2087 @@
+[
+  {
+    "id": "dal-tadka",
+    "name": "Dal Tadka",
+    "cuisine": "North Indian",
+    "veg": true,
+    "prepMinutes": 10,
+    "cookMinutes": 25,
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "name": "toor dal",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, finely chopped"
+      },
+      {
+        "name": "tomato",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "garlic",
+        "quantity": "4 cloves, sliced"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tsp, grated"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, slit"
+      },
+      {
+        "name": "turmeric",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "ghee",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "red chilli powder",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "asafoetida",
+        "quantity": "a pinch"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "steps": [
+      "Rinse the toor dal and pressure-cook with 3 cups of water, turmeric and salt for 3-4 whistles until soft. Whisk until smooth.",
+      "Heat 1 tbsp ghee in a pan. Add cumin seeds and asafoetida; when the seeds splutter, add onion, ginger, garlic and green chilli.",
+      "Saute until the onion turns golden, then add tomato and red chilli powder. Cook until the tomato softens and the oil separates.",
+      "Pour in the cooked dal, mix well and simmer for 5 minutes. Add water if too thick.",
+      "For the tadka, heat the remaining ghee, add a few garlic slices and a pinch of red chilli powder, and pour over the dal.",
+      "Garnish with coriander leaves and serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "aloo-gobi",
+    "name": "Aloo Gobi",
+    "cuisine": "North Indian",
+    "veg": true,
+    "prepMinutes": 15,
+    "cookMinutes": 25,
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "name": "potato",
+        "quantity": "3 medium, cubed"
+      },
+      {
+        "name": "cauliflower",
+        "quantity": "1 small, cut into florets"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, sliced"
+      },
+      {
+        "name": "tomato",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tsp, grated"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, slit"
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "turmeric",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "coriander powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "garam masala",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "steps": [
+      "Heat oil in a kadhai. Add cumin seeds; when they splutter, add onion, ginger and green chilli and fry until the onion is soft.",
+      "Add tomato, turmeric, coriander powder and salt. Cook until the tomato breaks down.",
+      "Add potato and cauliflower, mix well to coat with the masala, cover and cook on low for 15-20 minutes, stirring occasionally.",
+      "Sprinkle a little water if the vegetables stick. Cook until the potato is tender and the cauliflower is done but not mushy.",
+      "Stir in garam masala and coriander leaves. Serve hot with roti or paratha."
+    ]
+  },
+  {
+    "id": "paneer-butter-masala",
+    "name": "Paneer Butter Masala",
+    "cuisine": "North Indian",
+    "veg": true,
+    "prepMinutes": 15,
+    "cookMinutes": 30,
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "name": "paneer",
+        "quantity": "250 g, cubed"
+      },
+      {
+        "name": "tomato",
+        "quantity": "4 large, chopped"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "garlic",
+        "quantity": "6 cloves"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tbsp, chopped"
+      },
+      {
+        "name": "butter",
+        "quantity": "3 tbsp"
+      },
+      {
+        "name": "cream",
+        "quantity": "1/4 cup"
+      },
+      {
+        "name": "garam masala",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "sugar",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "cashew nuts",
+        "quantity": "10"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "steps": [
+      "Boil the tomatoes, onion, garlic, ginger and cashews in 1 cup of water for 10 minutes. Cool and blend to a smooth puree.",
+      "Melt butter in a pan, add the puree and cook on medium heat for 10 minutes until it thickens and the oil separates.",
+      "Add red chilli powder, garam masala, sugar and salt. Stir in the cream.",
+      "Add the paneer cubes and simmer for 5 minutes so they soak up the gravy.",
+      "Serve hot with naan, roti or jeera rice."
+    ]
+  },
+  {
+    "id": "egg-curry",
+    "name": "Egg Curry",
+    "cuisine": "North Indian",
+    "veg": false,
+    "prepMinutes": 10,
+    "cookMinutes": 25,
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "name": "egg",
+        "quantity": "4, hard-boiled"
+      },
+      {
+        "name": "onion",
+        "quantity": "2, finely chopped"
+      },
+      {
+        "name": "tomato",
+        "quantity": "2, chopped"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tsp, grated"
+      },
+      {
+        "name": "garlic",
+        "quantity": "4 cloves, minced"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, slit"
+      },
+      {
+        "name": "turmeric",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "coriander powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "garam masala",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "steps": [
+      "Peel the boiled eggs and make shallow slits on each so the gravy seeps in.",
+      "Heat oil, add onion and fry until golden. Add ginger, garlic and green chilli; fry for a minute.",
+      "Add tomato, turmeric, red chilli powder and coriander powder. Cook until the oil separates.",
+      "Add 1 cup of water, bring to a boil, then slide in the eggs and simmer for 5 minutes.",
+      "Sprinkle garam masala and coriander leaves. Serve with rice or roti."
+    ]
+  },
+  {
+    "id": "vegetable-pulao",
+    "name": "Vegetable Pulao",
+    "cuisine": "North Indian",
+    "veg": true,
+    "prepMinutes": 15,
+    "cookMinutes": 25,
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "name": "basmati rice",
+        "quantity": "1.5 cups, soaked 20 min"
+      },
+      {
+        "name": "carrot",
+        "quantity": "1, diced"
+      },
+      {
+        "name": "peas",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "beans",
+        "quantity": "1/2 cup, chopped"
+      },
+      {
+        "name": "cauliflower",
+        "quantity": "1/2 cup florets"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, sliced"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tsp, grated"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, slit"
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "bay leaf",
+        "quantity": "1"
+      },
+      {
+        "name": "garam masala",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "ghee",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "steps": [
+      "Heat ghee in a heavy pot. Add cumin seeds and bay leaf; when they crackle, add onion, ginger and green chilli.",
+      "Add all the vegetables and fry for 3-4 minutes.",
+      "Drain the rice and add it with garam masala and salt. Stir gently for a minute.",
+      "Add 3 cups of hot water, cover and cook on low for 15 minutes until the rice is done.",
+      "Rest for 5 minutes, fluff with a fork and garnish with coriander leaves. Serve with raita."
+    ]
+  },
+  {
+    "id": "tomato-rasam",
+    "name": "Tomato Rasam",
+    "cuisine": "South Indian",
+    "veg": true,
+    "prepMinutes": 10,
+    "cookMinutes": 20,
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "name": "tomato",
+        "quantity": "3, chopped"
+      },
+      {
+        "name": "toor dal",
+        "quantity": "1/4 cup, cooked"
+      },
+      {
+        "name": "garlic",
+        "quantity": "4 cloves, crushed"
+      },
+      {
+        "name": "black pepper",
+        "quantity": "1 tsp, crushed"
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "turmeric",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "mustard seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "curry leaves",
+        "quantity": "8-10"
+      },
+      {
+        "name": "asafoetida",
+        "quantity": "a pinch"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "steps": [
+      "Boil the tomatoes in 2 cups of water for 5 minutes until soft, then mash them lightly.",
+      "Stir in the cooked toor dal, turmeric, crushed pepper, cumin and salt. Simmer for 5 minutes.",
+      "Heat ghee or oil, add mustard seeds; when they pop, add curry leaves, asafoetida and crushed garlic.",
+      "Pour the tempering into the rasam and simmer for 2 more minutes. Do not let it boil hard.",
+      "Garnish with coriander leaves and serve hot with rice or as a soup."
+    ]
+  },
+  {
+    "id": "chole-masala",
+    "name": "Chole Masala",
+    "cuisine": "North Indian",
+    "veg": true,
+    "prepMinutes": 15,
+    "cookMinutes": 40,
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "name": "chickpeas",
+        "quantity": "1.5 cups, soaked overnight"
+      },
+      {
+        "name": "onion",
+        "quantity": "2, finely chopped"
+      },
+      {
+        "name": "tomato",
+        "quantity": "2, pureed"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tbsp, grated"
+      },
+      {
+        "name": "garlic",
+        "quantity": "5 cloves, minced"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, slit"
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "coriander powder",
+        "quantity": "1.5 tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "garam masala",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "steps": [
+      "Pressure-cook the soaked chickpeas with salt for 4-5 whistles until soft. Keep the cooking water.",
+      "Heat oil, add cumin seeds, then onion. Fry until golden brown.",
+      "Add ginger, garlic and green chilli; fry a minute, then add tomato puree and the spice powders.",
+      "Cook the masala until the oil separates, then add the chickpeas with a cup of their cooking water.",
+      "Simmer for 10-15 minutes, mashing a few chickpeas to thicken the gravy.",
+      "Finish with garam masala and coriander leaves. Serve with bhature, roti or rice."
+    ]
+  },
+  {
+    "id": "palak-paneer",
+    "name": "Palak Paneer",
+    "cuisine": "North Indian",
+    "veg": true,
+    "prepMinutes": 15,
+    "cookMinutes": 25,
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "name": "spinach",
+        "quantity": "500 g, washed"
+      },
+      {
+        "name": "paneer",
+        "quantity": "200 g, cubed"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "tomato",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "garlic",
+        "quantity": "5 cloves"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tbsp, chopped"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "2"
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "garam masala",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "cream",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "steps": [
+      "Blanch the spinach in boiling water for 2 minutes, then plunge into cold water. Blend with the green chillies to a smooth puree.",
+      "Heat oil or ghee, add cumin seeds, then onion, garlic and ginger. Fry until the onion is soft.",
+      "Add tomato and cook until soft, then pour in the spinach puree and simmer for 5 minutes.",
+      "Add paneer cubes, garam masala and salt. Simmer for 3-4 minutes.",
+      "Stir in the cream and serve hot with roti or naan."
+    ]
+  },
+  {
+    "id": "jeera-rice",
+    "name": "Jeera Rice",
+    "cuisine": "North Indian",
+    "veg": true,
+    "prepMinutes": 10,
+    "cookMinutes": 20,
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "name": "basmati rice",
+        "quantity": "1.5 cups, soaked 20 min"
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1.5 tsp"
+      },
+      {
+        "name": "bay leaf",
+        "quantity": "1"
+      },
+      {
+        "name": "ghee",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "steps": [
+      "Heat ghee in a pot. Add cumin seeds and bay leaf; fry until the seeds turn golden and fragrant.",
+      "Add the drained rice and stir gently for a minute so every grain is coated.",
+      "Add 3 cups of water and salt, cover and cook on low for 15 minutes.",
+      "Rest for 5 minutes, remove the bay leaf and fluff with a fork.",
+      "Garnish with coriander leaves and serve with dal or curry."
+    ]
+  },
+  {
+    "id": "masala-omelette",
+    "name": "Masala Omelette",
+    "cuisine": "Indian",
+    "veg": false,
+    "prepMinutes": 5,
+    "cookMinutes": 10,
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "name": "egg",
+        "quantity": "3"
+      },
+      {
+        "name": "onion",
+        "quantity": "1 small, finely chopped"
+      },
+      {
+        "name": "tomato",
+        "quantity": "1 small, finely chopped"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, finely chopped"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "1 tbsp, chopped"
+      },
+      {
+        "name": "turmeric",
+        "quantity": "a pinch"
+      },
+      {
+        "name": "red chilli powder",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "butter",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "steps": [
+      "Whisk the eggs with salt, turmeric and red chilli powder until frothy.",
+      "Stir in the onion, tomato, green chilli and coriander leaves.",
+      "Melt butter in a pan on medium heat and pour in the egg mixture.",
+      "Cook until the base sets, then fold in half and cook for another minute.",
+      "Serve hot with toast or pav."
+    ]
+  },
+  {
+    "id": "aloo-paratha",
+    "name": "Aloo Paratha",
+    "cuisine": "North Indian",
+    "veg": true,
+    "prepMinutes": 20,
+    "cookMinutes": 20,
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "name": "potato",
+        "quantity": "4, boiled and mashed"
+      },
+      {
+        "name": "wheat flour",
+        "quantity": "2 cups"
+      },
+      {
+        "name": "onion",
+        "quantity": "1 small, finely chopped"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, finely chopped"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tsp, grated"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "red chilli powder",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "garam masala",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "butter",
+        "quantity": "for roasting"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "steps": [
+      "Knead the wheat flour with water and a pinch of salt into a soft dough. Rest for 15 minutes.",
+      "Mix the mashed potato with onion, green chilli, ginger, coriander leaves, red chilli powder, garam masala and salt.",
+      "Roll a dough ball into a small disc, place a portion of filling in the centre, seal and roll out gently.",
+      "Roast on a hot tawa, flipping once, until golden spots appear on both sides. Smear with butter or ghee.",
+      "Serve hot with curd, pickle or butter."
+    ]
+  },
+  {
+    "id": "vegetable-upma",
+    "name": "Vegetable Upma",
+    "cuisine": "South Indian",
+    "veg": true,
+    "prepMinutes": 10,
+    "cookMinutes": 15,
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "name": "semolina",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "carrot",
+        "quantity": "1, diced"
+      },
+      {
+        "name": "peas",
+        "quantity": "1/4 cup"
+      },
+      {
+        "name": "beans",
+        "quantity": "1/4 cup, chopped"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, slit"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tsp, grated"
+      },
+      {
+        "name": "mustard seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "curry leaves",
+        "quantity": "8-10"
+      },
+      {
+        "name": "ghee",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "steps": [
+      "Dry-roast the semolina in a pan until it turns light golden and fragrant. Set aside.",
+      "Heat ghee, add mustard seeds; when they pop, add curry leaves, onion, ginger and green chilli.",
+      "Add the vegetables and fry for 3 minutes, then add 2.5 cups of water and salt and bring to a boil.",
+      "Lower the heat and sprinkle in the roasted semolina slowly, stirring constantly to avoid lumps.",
+      "Cover and cook on low for 3-4 minutes until the water is absorbed.",
+      "Fluff, garnish with coriander leaves and serve hot."
+    ]
+  },
+  {
+    "cookMinutes": 15,
+    "cuisine": "Maharashtrian",
+    "difficulty": "Easy",
+    "id": "poha",
+    "ingredients": [
+      {
+        "name": "poha",
+        "quantity": "2 cups"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "potato",
+        "quantity": "1, diced small"
+      },
+      {
+        "name": "peanuts",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, slit"
+      },
+      {
+        "name": "mustard seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "curry leaves",
+        "quantity": "8-10"
+      },
+      {
+        "name": "turmeric",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "lemon",
+        "quantity": "1/2, juiced"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "name": "Poha",
+    "prepMinutes": 10,
+    "steps": [
+      "Rinse the poha in a colander under running water for a few seconds, then drain and rest for 5 minutes. It should soften, not turn mushy.",
+      "Heat oil, add mustard seeds; when they pop, add curry leaves, peanuts and potato. Fry until the potato is cooked.",
+      "Add onion and green chilli; fry until the onion is soft.",
+      "Add turmeric and salt, then the softened poha. Mix gently and cook for 2-3 minutes.",
+      "Turn off the heat, squeeze in the lemon juice and garnish with coriander leaves. Serve hot."
+    ],
+    "veg": true
+  },
+  {
+    "cookMinutes": 15,
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "id": "besan-chilla",
+    "ingredients": [
+      {
+        "name": "besan",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "onion",
+        "quantity": "1 small, finely chopped"
+      },
+      {
+        "name": "tomato",
+        "quantity": "1 small, finely chopped"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, finely chopped"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "turmeric",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "name": "Besan Chilla",
+    "prepMinutes": 10,
+    "steps": [
+      "Whisk the besan with 3/4 cup of water into a smooth, pourable batter. Rest for 5 minutes.",
+      "Stir in the onion, tomato, green chilli, coriander leaves, turmeric, red chilli powder, cumin and salt.",
+      "Heat a greased tawa, pour a ladle of batter and spread into a thin round.",
+      "Cook until the edges lift and the base is golden, then flip and cook the other side.",
+      "Serve hot with green chutney or ketchup."
+    ],
+    "veg": true
+  },
+  {
+    "cookMinutes": 40,
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "id": "rajma-masala",
+    "ingredients": [
+      {
+        "name": "kidney beans",
+        "quantity": "1.5 cups, soaked overnight"
+      },
+      {
+        "name": "onion",
+        "quantity": "2, finely chopped"
+      },
+      {
+        "name": "tomato",
+        "quantity": "2, pureed"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tbsp, grated"
+      },
+      {
+        "name": "garlic",
+        "quantity": "5 cloves, minced"
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "coriander powder",
+        "quantity": "1.5 tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "garam masala",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "name": "Rajma Masala",
+    "prepMinutes": 15,
+    "steps": [
+      "Pressure-cook the soaked kidney beans with salt for 4-5 whistles until soft. Keep the cooking water.",
+      "Heat oil, add cumin seeds, then onion. Fry until deep golden.",
+      "Add ginger and garlic, fry a minute, then add the tomato puree and spice powders. Cook until the oil separates.",
+      "Add the beans with a cup of their cooking water and simmer for 15 minutes, mashing a few beans to thicken.",
+      "Finish with garam masala and coriander leaves. Serve with steamed rice."
+    ],
+    "veg": true
+  },
+  {
+    "cookMinutes": 30,
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "id": "baingan-bharta",
+    "ingredients": [
+      {
+        "name": "brinjal",
+        "quantity": "1 large"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, finely chopped"
+      },
+      {
+        "name": "tomato",
+        "quantity": "2, chopped"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tsp, grated"
+      },
+      {
+        "name": "garlic",
+        "quantity": "4 cloves, minced"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "turmeric",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "name": "Baingan Bharta",
+    "prepMinutes": 15,
+    "steps": [
+      "Roast the brinjal directly over a flame (or in a hot oven at 220 C for 25 minutes), turning until the skin is charred and the flesh is soft.",
+      "Cool, peel off the skin and mash the flesh.",
+      "Heat oil, add cumin seeds, then onion, ginger, garlic and green chilli. Fry until the onion is golden.",
+      "Add tomato, turmeric and red chilli powder. Cook until the tomato softens.",
+      "Stir in the mashed brinjal and salt. Cook for 5-7 minutes until everything comes together.",
+      "Garnish with coriander leaves and serve with roti."
+    ],
+    "veg": true
+  },
+  {
+    "cookMinutes": 20,
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "id": "bhindi-masala",
+    "ingredients": [
+      {
+        "name": "okra",
+        "quantity": "300 g, cut into 1-inch pieces"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, sliced"
+      },
+      {
+        "name": "tomato",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tsp, grated"
+      },
+      {
+        "name": "garlic",
+        "quantity": "3 cloves, minced"
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "turmeric",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "coriander powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "garam masala",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "name": "Bhindi Masala",
+    "prepMinutes": 15,
+    "steps": [
+      "Wash and thoroughly dry the okra, then cut it. Dry okra stays crisp and does not turn slimy.",
+      "Fry the okra in hot oil for 4-5 minutes until lightly browned. Remove and set aside.",
+      "In the same pan, add cumin seeds, then onion, ginger and garlic. Fry until the onion is soft.",
+      "Add tomato and the spice powders. Cook until the tomato breaks down.",
+      "Return the okra to the pan, add salt and garam masala, and toss for 2 minutes. Serve with roti."
+    ],
+    "veg": true
+  },
+  {
+    "cookMinutes": 20,
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "id": "curd-rice",
+    "ingredients": [
+      {
+        "name": "rice",
+        "quantity": "1 cup, cooked soft"
+      },
+      {
+        "name": "curd",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "milk",
+        "quantity": "1/4 cup"
+      },
+      {
+        "name": "mustard seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "curry leaves",
+        "quantity": "8-10"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tsp, grated"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "1 tbsp, chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "name": "Curd Rice",
+    "prepMinutes": 10,
+    "steps": [
+      "Mash the warm cooked rice lightly and let it cool to room temperature.",
+      "Mix in the curd and milk until creamy. Add salt.",
+      "Heat oil, add mustard seeds; when they pop, add curry leaves, green chilli and ginger.",
+      "Pour the tempering over the rice and mix well.",
+      "Garnish with coriander leaves and serve with pickle."
+    ],
+    "veg": true
+  },
+  {
+    "cookMinutes": 15,
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "id": "lemon-rice",
+    "ingredients": [
+      {
+        "name": "rice",
+        "quantity": "2 cups, cooked and cooled"
+      },
+      {
+        "name": "lemon",
+        "quantity": "1, juiced"
+      },
+      {
+        "name": "peanuts",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "mustard seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "curry leaves",
+        "quantity": "8-10"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, slit"
+      },
+      {
+        "name": "turmeric",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "asafoetida",
+        "quantity": "a pinch"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "name": "Lemon Rice",
+    "prepMinutes": 10,
+    "steps": [
+      "Heat oil, add mustard seeds; when they pop, add curry leaves, peanuts and green chilli.",
+      "Add turmeric and asafoetida, then the cooked rice and salt. Toss gently so the grains stay separate.",
+      "Turn off the heat and stir in the lemon juice.",
+      "Garnish with coriander leaves and serve with papad or pickle."
+    ],
+    "veg": true
+  },
+  {
+    "cookMinutes": 25,
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "id": "tomato-rice",
+    "ingredients": [
+      {
+        "name": "basmati rice",
+        "quantity": "1.5 cups, soaked 20 min"
+      },
+      {
+        "name": "tomato",
+        "quantity": "3, chopped"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, sliced"
+      },
+      {
+        "name": "garlic",
+        "quantity": "4 cloves, minced"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, slit"
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "garam masala",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "name": "Tomato Rice",
+    "prepMinutes": 10,
+    "steps": [
+      "Heat oil, add cumin seeds, then onion, garlic and green chilli. Fry until the onion is soft.",
+      "Add tomato, red chilli powder and salt. Cook until the tomato turns pulpy and the oil separates.",
+      "Add the drained rice and garam masala, stir for a minute, then add 3 cups of water.",
+      "Cover and cook on low for 15 minutes until the rice is done.",
+      "Rest 5 minutes, fluff and garnish with coriander leaves. Serve with raita."
+    ],
+    "veg": true
+  },
+  {
+    "cookMinutes": 40,
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "id": "chicken-curry",
+    "ingredients": [
+      {
+        "name": "chicken",
+        "quantity": "500 g, bone-in pieces"
+      },
+      {
+        "name": "onion",
+        "quantity": "2, finely chopped"
+      },
+      {
+        "name": "tomato",
+        "quantity": "2, pureed"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tbsp, grated"
+      },
+      {
+        "name": "garlic",
+        "quantity": "6 cloves, minced"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, slit"
+      },
+      {
+        "name": "curd",
+        "quantity": "1/4 cup"
+      },
+      {
+        "name": "turmeric",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "coriander powder",
+        "quantity": "1.5 tsp"
+      },
+      {
+        "name": "garam masala",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "name": "Chicken Curry",
+    "prepMinutes": 20,
+    "steps": [
+      "Marinate the chicken with curd, turmeric, half the red chilli powder and salt for 15 minutes.",
+      "Heat oil, add onion and fry until deep golden. Add ginger, garlic and green chilli; fry for a minute.",
+      "Add tomato puree, coriander powder and remaining red chilli powder. Cook until the oil separates.",
+      "Add the chicken and fry on high for 5 minutes until it changes colour.",
+      "Add 1.5 cups of water, cover and simmer for 25 minutes until the chicken is tender.",
+      "Stir in garam masala and coriander leaves. Serve with rice or roti."
+    ],
+    "veg": false
+  },
+  {
+    "cookMinutes": 15,
+    "cuisine": "Indo-Chinese",
+    "difficulty": "Easy",
+    "id": "egg-fried-rice",
+    "ingredients": [
+      {
+        "name": "rice",
+        "quantity": "2 cups, cooked and cooled"
+      },
+      {
+        "name": "egg",
+        "quantity": "2, beaten"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "carrot",
+        "quantity": "1, diced small"
+      },
+      {
+        "name": "capsicum",
+        "quantity": "1/2, diced"
+      },
+      {
+        "name": "peas",
+        "quantity": "1/4 cup"
+      },
+      {
+        "name": "garlic",
+        "quantity": "3 cloves, minced"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "soy sauce",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "black pepper",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "name": "Egg Fried Rice",
+    "prepMinutes": 10,
+    "steps": [
+      "Heat oil in a wok on high heat. Pour in the beaten eggs and scramble quickly. Remove and set aside.",
+      "In the same wok, fry garlic, onion, carrot, capsicum and peas for 2-3 minutes on high heat.",
+      "Add the cold rice and toss well so the grains stay separate.",
+      "Stir in soy sauce, black pepper and salt. Add the scrambled egg and toss for a minute.",
+      "Serve hot, garnished with spring onion if you have it."
+    ],
+    "veg": false
+  },
+  {
+    "cookMinutes": 15,
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "id": "paneer-bhurji",
+    "ingredients": [
+      {
+        "name": "paneer",
+        "quantity": "250 g, crumbled"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, finely chopped"
+      },
+      {
+        "name": "tomato",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "capsicum",
+        "quantity": "1/2, diced"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tsp, grated"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "turmeric",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "garam masala",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "name": "Paneer Bhurji",
+    "prepMinutes": 10,
+    "steps": [
+      "Heat oil, add cumin seeds, then onion, ginger and green chilli. Fry until the onion is soft.",
+      "Add tomato, capsicum, turmeric and red chilli powder. Cook until the tomato softens.",
+      "Add the crumbled paneer and salt. Cook for 3-4 minutes, stirring gently.",
+      "Finish with garam masala and coriander leaves. Serve with roti, pav or toast."
+    ],
+    "veg": true
+  },
+  {
+    "cookMinutes": 30,
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "id": "moong-dal-khichdi",
+    "ingredients": [
+      {
+        "name": "rice",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "moong dal",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "tomato",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "carrot",
+        "quantity": "1, diced"
+      },
+      {
+        "name": "peas",
+        "quantity": "1/4 cup"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tsp, grated"
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "turmeric",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "ghee",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "name": "Moong Dal Khichdi",
+    "prepMinutes": 10,
+    "steps": [
+      "Rinse the rice and moong dal together and soak for 15 minutes.",
+      "Heat ghee in a pressure cooker, add cumin seeds, then onion and ginger. Fry until soft.",
+      "Add tomato, carrot, peas and turmeric. Cook for 2 minutes.",
+      "Add the drained rice and dal with 4 cups of water and salt.",
+      "Pressure-cook for 3-4 whistles until soft and porridge-like. Serve hot with a spoon of ghee, curd or pickle."
+    ],
+    "veg": true
+  },
+  {
+    "cookMinutes": 25,
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "id": "masala-dosa",
+    "ingredients": [
+      {
+        "name": "dosa batter",
+        "quantity": "2 cups"
+      },
+      {
+        "name": "potato",
+        "quantity": "3, boiled and mashed"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, sliced"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tsp, grated"
+      },
+      {
+        "name": "mustard seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "curry leaves",
+        "quantity": "8-10"
+      },
+      {
+        "name": "turmeric",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "name": "Masala Dosa",
+    "prepMinutes": 15,
+    "steps": [
+      "Heat oil, add mustard seeds; when they pop, add curry leaves, onion, ginger and green chilli.",
+      "Add turmeric and the mashed potato with salt. Mix well and cook for 2 minutes. This is the masala filling.",
+      "Heat a greased dosa tawa, pour a ladle of batter and spread in a spiral into a thin circle.",
+      "Drizzle a little oil around the edges and cook until crisp and golden.",
+      "Place a spoon of potato masala in the centre, fold the dosa over and serve hot with chutney and sambar."
+    ],
+    "veg": true
+  },
+  {
+    "cookMinutes": 35,
+    "cuisine": "Maharashtrian",
+    "difficulty": "Medium",
+    "id": "pav-bhaji",
+    "ingredients": [
+      {
+        "name": "potato",
+        "quantity": "4, boiled"
+      },
+      {
+        "name": "cauliflower",
+        "quantity": "1 cup florets"
+      },
+      {
+        "name": "peas",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "tomato",
+        "quantity": "3, chopped"
+      },
+      {
+        "name": "onion",
+        "quantity": "2, finely chopped"
+      },
+      {
+        "name": "capsicum",
+        "quantity": "1, finely chopped"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tbsp, grated"
+      },
+      {
+        "name": "garlic",
+        "quantity": "5 cloves, minced"
+      },
+      {
+        "name": "butter",
+        "quantity": "3 tbsp"
+      },
+      {
+        "name": "pav bhaji masala",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "lemon",
+        "quantity": "1/2, juiced"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "name": "Pav Bhaji",
+    "prepMinutes": 15,
+    "steps": [
+      "Boil the potato, cauliflower and peas until soft, then mash them together.",
+      "Heat butter, add onion, ginger and garlic. Fry until the onion is golden.",
+      "Add capsicum and tomato. Cook until the tomato is pulpy.",
+      "Add pav bhaji masala and the mashed vegetables. Mix and cook for 10 minutes, mashing as you go.",
+      "Add water for the right consistency, finish with lemon juice and coriander leaves.",
+      "Toast pav in butter and serve alongside the bhaji with chopped onion and a lemon wedge."
+    ],
+    "veg": true
+  },
+  {
+    "cookMinutes": 25,
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "id": "kadhi",
+    "ingredients": [
+      {
+        "name": "curd",
+        "quantity": "1 cup, sour"
+      },
+      {
+        "name": "besan",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, sliced"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tsp, grated"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, slit"
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "mustard seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "curry leaves",
+        "quantity": "8-10"
+      },
+      {
+        "name": "turmeric",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "asafoetida",
+        "quantity": "a pinch"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "name": "Kadhi",
+    "prepMinutes": 10,
+    "steps": [
+      "Whisk the curd with besan, turmeric and 2 cups of water until smooth with no lumps.",
+      "Heat oil, add cumin and mustard seeds; when they pop, add curry leaves, asafoetida, onion, ginger and green chilli.",
+      "Pour in the curd mixture and stir continuously until it comes to a gentle boil.",
+      "Simmer on low for 15 minutes, stirring occasionally, until it thickens slightly.",
+      "Sprinkle red chilli powder and serve hot with steamed rice."
+    ],
+    "veg": true
+  },
+  {
+    "cookMinutes": 20,
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "id": "methi-paratha",
+    "ingredients": [
+      {
+        "name": "wheat flour",
+        "quantity": "2 cups"
+      },
+      {
+        "name": "fenugreek leaves",
+        "quantity": "1 cup, chopped"
+      },
+      {
+        "name": "curd",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, finely chopped"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tsp, grated"
+      },
+      {
+        "name": "turmeric",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "ghee",
+        "quantity": "for roasting"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "name": "Methi Paratha",
+    "prepMinutes": 20,
+    "steps": [
+      "Knead the wheat flour with fenugreek leaves, curd, green chilli, ginger, turmeric, red chilli powder and salt into a soft dough. Rest 15 minutes.",
+      "Divide into balls and roll each into a round paratha.",
+      "Roast on a hot tawa, flipping once, until golden spots appear on both sides. Smear with ghee.",
+      "Serve hot with curd or pickle."
+    ],
+    "veg": true
+  },
+  {
+    "cookMinutes": 30,
+    "cuisine": "North Indian",
+    "difficulty": "Medium",
+    "id": "soya-chunk-curry",
+    "ingredients": [
+      {
+        "name": "soya chunks",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "onion",
+        "quantity": "2, finely chopped"
+      },
+      {
+        "name": "tomato",
+        "quantity": "2, pureed"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tbsp, grated"
+      },
+      {
+        "name": "garlic",
+        "quantity": "5 cloves, minced"
+      },
+      {
+        "name": "curd",
+        "quantity": "1/4 cup"
+      },
+      {
+        "name": "turmeric",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "coriander powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "garam masala",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "name": "Soya Chunk Curry",
+    "prepMinutes": 15,
+    "steps": [
+      "Boil the soya chunks in salted water for 5 minutes, then rinse in cold water and squeeze out all the water.",
+      "Heat oil, add onion and fry until golden. Add ginger and garlic; fry for a minute.",
+      "Add tomato puree, turmeric, red chilli powder and coriander powder. Cook until the oil separates.",
+      "Add the soya chunks, curd and 1 cup of water. Simmer for 10 minutes.",
+      "Finish with garam masala and coriander leaves. Serve with rice or roti."
+    ],
+    "veg": true
+  },
+  {
+    "cookMinutes": 25,
+    "cuisine": "Continental",
+    "difficulty": "Easy",
+    "id": "tomato-soup",
+    "ingredients": [
+      {
+        "name": "tomato",
+        "quantity": "6, chopped"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "garlic",
+        "quantity": "3 cloves"
+      },
+      {
+        "name": "carrot",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "butter",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "black pepper",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "sugar",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "cream",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "name": "Tomato Soup",
+    "prepMinutes": 10,
+    "steps": [
+      "Melt butter, add onion, garlic and carrot. Fry for 3 minutes.",
+      "Add the tomatoes and 2 cups of water. Simmer for 15 minutes until the tomatoes are soft.",
+      "Cool slightly and blend until smooth. Strain for a silky texture.",
+      "Return to the pan, add sugar, salt and black pepper, and simmer for 3 minutes.",
+      "Serve hot with a swirl of cream and toast or croutons."
+    ],
+    "veg": true
+  },
+  {
+    "cookMinutes": 10,
+    "cuisine": "Continental",
+    "difficulty": "Easy",
+    "id": "cheese-sandwich",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": "4 slices"
+      },
+      {
+        "name": "cheese",
+        "quantity": "4 slices"
+      },
+      {
+        "name": "butter",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "tomato",
+        "quantity": "1, sliced (optional)"
+      },
+      {
+        "name": "black pepper",
+        "quantity": "a pinch"
+      }
+    ],
+    "name": "Grilled Cheese Sandwich",
+    "prepMinutes": 5,
+    "steps": [
+      "Butter one side of each bread slice.",
+      "Place cheese (and tomato, if using) between two slices, buttered sides out.",
+      "Grill in a pan on medium heat until golden and crisp on the first side.",
+      "Flip and grill the other side until the cheese melts.",
+      "Cut diagonally and serve hot."
+    ],
+    "veg": true
+  },
+  {
+    "cookMinutes": 25,
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "id": "mushroom-masala",
+    "ingredients": [
+      {
+        "name": "mushroom",
+        "quantity": "300 g, sliced"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, finely chopped"
+      },
+      {
+        "name": "tomato",
+        "quantity": "2, chopped"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tsp, grated"
+      },
+      {
+        "name": "garlic",
+        "quantity": "4 cloves, minced"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, slit"
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "turmeric",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "garam masala",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "name": "Mushroom Masala",
+    "prepMinutes": 10,
+    "steps": [
+      "Heat oil, add cumin seeds, then onion, ginger, garlic and green chilli. Fry until the onion is golden.",
+      "Add tomato, turmeric and red chilli powder. Cook until the tomato softens and the oil separates.",
+      "Add the mushrooms and salt. Cook on medium heat for 8-10 minutes until the mushrooms release and reabsorb their water.",
+      "Sprinkle garam masala and coriander leaves. Serve with roti or rice."
+    ],
+    "veg": true
+  },
+  {
+    "cookMinutes": 15,
+    "cuisine": "South Indian",
+    "difficulty": "Easy",
+    "id": "cabbage-poriyal",
+    "ingredients": [
+      {
+        "name": "cabbage",
+        "quantity": "1 small, shredded"
+      },
+      {
+        "name": "carrot",
+        "quantity": "1, grated"
+      },
+      {
+        "name": "mustard seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "curry leaves",
+        "quantity": "8-10"
+      },
+      {
+        "name": "green chilli",
+        "quantity": "1, slit"
+      },
+      {
+        "name": "turmeric",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "grated coconut",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "name": "Cabbage Poriyal",
+    "prepMinutes": 10,
+    "steps": [
+      "Heat oil, add mustard seeds; when they pop, add curry leaves and green chilli.",
+      "Add the cabbage, carrot, turmeric and salt. Sprinkle a little water and cover.",
+      "Cook on low for 8-10 minutes until the cabbage is tender but still has bite.",
+      "Stir in the grated coconut and cook for one more minute.",
+      "Serve hot with rice and sambar or rasam."
+    ],
+    "veg": true
+  },
+  {
+    "cookMinutes": 30,
+    "cuisine": "North Indian",
+    "difficulty": "Easy",
+    "id": "mixed-veg-curry",
+    "ingredients": [
+      {
+        "name": "potato",
+        "quantity": "2, cubed"
+      },
+      {
+        "name": "carrot",
+        "quantity": "1, diced"
+      },
+      {
+        "name": "cauliflower",
+        "quantity": "1 cup florets"
+      },
+      {
+        "name": "peas",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "beans",
+        "quantity": "1/2 cup, chopped"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, finely chopped"
+      },
+      {
+        "name": "tomato",
+        "quantity": "2, chopped"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tbsp, grated"
+      },
+      {
+        "name": "garlic",
+        "quantity": "4 cloves, minced"
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "turmeric",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "coriander powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "garam masala",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "coriander leaves",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "name": "Mixed Vegetable Curry",
+    "prepMinutes": 15,
+    "steps": [
+      "Heat oil, add cumin seeds, then onion, ginger and garlic. Fry until the onion is golden.",
+      "Add tomato, turmeric and coriander powder. Cook until the oil separates.",
+      "Add all the vegetables with 1 cup of water and salt. Cover and simmer for 15-20 minutes until tender.",
+      "Stir in garam masala and coriander leaves. Serve with roti or rice."
+    ],
+    "veg": true
+  }
+]
